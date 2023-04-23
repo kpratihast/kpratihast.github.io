@@ -1,32 +1,32 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Bootstrap/HTML5 Responsive Template 
+
+Aroma Beauty and Spa Responsive Bootstrap Template is a bold, modern and stylish bootstrap theme suitable for small types of businesses such as beauty and massage center, hair salons, nail salons, and others. The template is fully responsive and mobile ready. It has the ability to function faultlessly on all types of browsers and modern devices and adapts suitably on small, big or wide screen resolutions.This template is built using latest Bootstrap framework with html5 and css3 which is very easy to customise. Download for free.  
+
+Credits :
+-------
+=> Design and developed: "WebThemez"  http://webthemez.com
+=> Photos used in template: **Unsplash** - http://unsplash.com
+=> For more free web themes: http://webthemez.com
+=> Framework : http://getbootstrap.com
+
+Important Note:
+---------------
+To remove backlink from the template, you need to donate to remove the backlink from the template.
+Any question contact us: webthemez@gmail.com
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+License :
+-------
+**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- You are allowed to use all files for both personal and commercial projects.
 
-(* = not included)
+- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
 
-AJ
-aj@lkn.io | @ajlkn
+- You do not have rights to redistribute,resell or offer files from this site to any third party
 
+- If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
 
-Credits:
+- If you have any question,feel free to contact us at webthemez@gmail.com
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- All images user here is for demo purpose only, we are not responsible for any copyrights.
